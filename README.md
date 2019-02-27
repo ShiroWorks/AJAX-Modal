@@ -1,2 +1,2 @@
 # AJAX-Modal
-A modal with AJAX
+A modal with AJAX.
